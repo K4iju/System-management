@@ -45,10 +45,46 @@ Scenario: You are the IT administrator for a small corporate network. You have j
    - Repeat for the remaining OUs.
 
 4. **Create OUs in the Sales Container
- 
 
-   ![image](https://github.com/K4iju/System-management/assets/159083256/d17a8028-d8ac-42a2-9bfd-2b678c03e6b9)
-   - Right-click `Sales` and select `New > Organizational Unit`.
+
+
+<h1>Delete Organizational Unit</h1>
+
+ ![image](https://github.com/K4iju/System-management/assets/159083256/bcd5c7f0-f87e-4a04-9a04-38b0e16ac4d0)
+1. From the Hyper-V Manager, select **CORPSERVER**.
+2. Under **Virtual Machines**, double-click **CorpDC**.
+
+## Enable Active Directory Users and Computers Advanced Features
+
+ ![image](https://github.com/K4iju/System-management/assets/159083256/5d8c85ab-f2d7-4be3-a286-0596ed18e76d)
+
+ ![image](https://github.com/K4iju/System-management/assets/159083256/c07837ff-807f-4a8f-b9bc-ed31184f5c48)
+
+1. From **Server Manager**, select **Tools > Active Directory Users and Computers**.
+2. From the top menu, select **View > Advanced Features**.
+3. Maximize the **Active Directory Users and Computers** window.
+
+## Delete the Departmental Workstations OUs
+
+![image](https://github.com/K4iju/System-management/assets/159083256/26dac38c-3801-4597-bbe1-085036379c9f)
+
+
+![image](https://github.com/K4iju/System-management/assets/159083256/60748cff-82fc-42a8-829f-6761c64121bc)
+
+
+1. From the left pane, expand **CorpNet.local**.
+2. From the left pane, select the OU that you wish to open.
+3. From the right pane, right-click **Workstations** and select **Properties**.
+4. Select the **Object** tab.
+5. Clear **Protect object from accidental deletion**.
+6. Select **OK**.
+7. Right-click **Workstations** and select **Delete**.
+8. Select **Yes** to confirm deletion.
+9. Repeat steps 2-8 to delete the additional OUs.
+
+## Disable Active Directory Users and Computers Advanced Features
+1. Select **View > Advanced Features** again to turn off the advanced features view.
+    - Right-click `Sales` and select `New > Organizational Unit`.
    - Enter the OU name and ensure `Protect container from accidental deletion` is selected.
    - Click `OK`.
    - Repeat for the remaining OUs.
