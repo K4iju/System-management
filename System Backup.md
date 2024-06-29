@@ -90,3 +90,101 @@ Zoey is responsible for developing an important new advertising campaign. To pro
 
 6. **Save Changes**:
     - Select **Save changes**.
+  
+   <h1>System Recovery</h1>
+
+<h2>Restore data from file history</h2>
+
+Scenario: You are the IT administrator for a corporate network. You just received an email from Margarita, who produces your organization's monthly magazine. The email was to notify you that she had created a help desk ticket using Issue Trax, and she hoped that someone could help her straight away. The computer you work from is named ITAdmin.
+
+
+# Lab Instructions
+
+## Resolving Margarita's Help Desk Ticket
+
+![image](https://github.com/K4iju/System-management/assets/159083256/0e1b5092-e283-4300-8932-ce7cb07d9bd5)
+
+1. From ITAdmin, determine the needs and possible fixes for Margarita's help desk ticket.
+2. From the taskbar, select Issue Trax.
+3. Maximize the window for better viewing.
+4. Select ticket #21.
+5. From the open ticket, determine the best course of action to resolve Margarita's issue.
+6. Leave the ticket maximized so you can see the details.
+
+
+
+## Go to Marketing 6 Department
+
+![image](https://github.com/K4iju/System-management/assets/159083256/265f91b0-b52a-4acc-b7c0-ff654300b221)
+
+
+
+8. From the top left, select Floor 1.
+9. Under Building A, select Floor 2.
+10. Under Marketing Group C, select Marketing6.
+
+
+
+## Configure backup
+
+
+![image](https://github.com/K4iju/System-management/assets/159083256/d3d8e00c-cb18-442b-ab9c-3d8c5117b31f)
+
+
+11. Right-click Start and then select Settings.
+12. Select Update & Security.
+13. From the left pane, select Backup.
+14. Make sure Automatically back up my files is set to On.
+15. Select More options.
+16. Scroll to the bottom of the Backup options dialog and, under Related settings, select Restore files from a current backup.
+
+## Restore March2022_Issue.jpg
+
+![image](https://github.com/K4iju/System-management/assets/159083256/424921fd-9ef2-4a86-84fe-25cb820421e1)
+
+
+17. Maximize the window for better viewing
+18. Restore the March2022_Issue.jpg file.
+    - From the bottom of the File History dialog, select the Previous version button (left arrow) to navigate to the backups captured on Tuesday, March 15, 2022 11:15 AM.
+    - Double-click on the Pictures folder.
+    - Double-click on the Layouts folder.
+    - Select the March2022_Issue.jpg file.
+    - Select Restore to original location (green arrow) located at the bottom center.
+    - Select Replace the file in the destination.
+    - The Layouts folder, where the file was restored, opens.
+    - From the Layouts folder, right-click the March2022_Issue.jpg file and then select Properties.
+    - Verify that the file was last modified on March 15, 2022 at 11:15:12 AM.
+    - Select OK.
+    - Close the Layouts window.
+
+## Restore Coverart.jpg
+
+![image](https://github.com/K4iju/System-management/assets/159083256/8d9ff7c4-0845-493c-929f-ca349fa8c77c)
+
+
+19. Restore the Coverart.jpg file.
+    - In the top left of File History, select the up arrow to navigate to the Home\Pictures folder.
+    - Select the Next version button (right arrow) at the bottom to navigate to the backups captured on Monday, March 14, 2022 10:15 AM.
+    - Double-click on the Images folder.
+    - Select the coverart.jpg file.
+    - Select Restore to original location (green arrow) located at the bottom center.
+    - Select Replace the file in the destination.
+    - Right-click the coverart.jpg file and select Properties.
+    - Verify that the file was last modified on Monday, March 14, 2022 10:15:12 AM.
+    - Select OK.
+
+## Add Comment
+![image](https://github.com/K4iju/System-management/assets/159083256/d06db2da-4a1e-4cd7-8fdf-66204467bad2)
+
+
+20. Add a comment to the ticket and close the ticket.
+    - From the top left, select Floor 2.
+    - Under Building A, select Floor 1.
+    - Under IT Administration, select ITAdmin.
+    - In the New Comment field of the open ticket, enter a comment of your choice to indicate that the files were restored.
+    - Select + (the plus sign) to add the comment.
+    - From the top of the ticket:
+        - Select Closed.
+        - Select the left arrow.
+        - There are no more tickets to be processed.
+21. Close Issue Trax.
