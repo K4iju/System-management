@@ -11,7 +11,8 @@ You are the IT administrator for a small corporate network. An employee has just
 
 ## Evaluating and Repairing the Exec-Laptop Computer
 
-![alt text](image-6.png)
+![image](https://github.com/K4iju/System-management/assets/159083256/2c14ddd1-c420-4de6-abe0-40d8eed76903)
+
 
 1. Boot the Exec-Laptop computer and evaluate the system.
     - Above the Exec-Laptop, select Top to view the power button.
@@ -20,8 +21,10 @@ You are the IT administrator for a small corporate network. An employee has just
     - Answer Question 1.
     - Minimize the question window.
 3. Determine which option would most likely fix the issue.
-![alt text](image-7.png)
-![alt text](image-8.png)
+![image](https://github.com/K4iju/System-management/assets/159083256/b7fea4f9-1e4c-4023-9c3d-ef2b523ef62f)
+
+![image](https://github.com/K4iju/System-management/assets/159083256/971a4331-508a-4e1e-bc65-c15ea9f42986)
+
     - Select Advanced options.
     - Select Troubleshoot.
     - Select Advanced options.
@@ -31,7 +34,8 @@ You are the IT administrator for a small corporate network. An employee has just
     - System image recover would not be a solution because it would lose current data
     - Start up repair - is the correct solution because it is boots the computer and repairs any system file corruptions
 4. Use the applicable option to repair the computer.
-![alt text](image-9.png)
+![image](https://github.com/K4iju/System-management/assets/159083256/edc8554f-a6cf-4858-ad2b-158fb90fa38a)
+
     - Select Startup Repair.
     - Allow the computer to boot into Windows.
         - On a real computer, the Startup Repair option may take an hour or more.
@@ -43,7 +47,7 @@ You are the IT administrator for a small corporate network. An employee has just
 
 ## Accessing System Protection Options
 
-![alt text](image-49.png)
+![image](https://github.com/K4iju/System-management/assets/159083256/f0ffecb1-35ce-4992-b847-373b56fc2fa3)
 
 1. Right-click Start and then select Settings.
 2. From the right pane, scroll to the bottom and select **About**.
@@ -53,7 +57,8 @@ You are the IT administrator for a small corporate network. An employee has just
 
 ### Configuring Local Disk (C:)
 
-![alt text](image-50.png)
+![image](https://github.com/K4iju/System-management/assets/159083256/c945d2de-c25b-493f-bfe3-68b1381cac2b)
+
 
 1. Make sure the **System Protection** tab is selected.
 2. Select **Local Disk (C:)** and then select **Configure**.
@@ -62,14 +67,18 @@ You are the IT administrator for a small corporate network. An employee has just
 
 ### Configuring Data (D:)
 
-![alt text](image-51.png)
+![image](https://github.com/K4iju/System-management/assets/159083256/25d82e7c-f2a6-4bcf-a5c7-2ec35c486d52)
+
+
+
 
 1. Select **Data (D:)** and then select **Configure**.
 2. Under **Restore Settings**, select **Turn on system protection**.
 3. Under **Disk Space Usage**, adjust **Max Usage** to **7%** and then select **OK**.
 
 ## Creating a Restore Point
-![alt text](image-52.png)
+![image](https://github.com/K4iju/System-management/assets/159083256/081c0390-5050-454b-926f-ff8dc32b2e0f)
+
 1. Select **Create** to create a restore point.
 2. Enter a name of your choosing for the restore point and then select **Create**.
 3. When prompted, select **Close** to acknowledge the completion of the restore point.
