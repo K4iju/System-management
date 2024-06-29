@@ -91,9 +91,9 @@ Zoey is responsible for developing an important new advertising campaign. To pro
 6. **Save Changes**:
     - Select **Save changes**.
   
-   <h1>System Recovery</h1>
 
-<h2>Restore data from file history</h2>
+
+<h1>Restore data from file history</h1>
 
 Scenario: You are the IT administrator for a corporate network. You just received an email from Margarita, who produces your organization's monthly magazine. The email was to notify you that she had created a help desk ticket using Issue Trax, and she hoped that someone could help her straight away. The computer you work from is named ITAdmin.
 
