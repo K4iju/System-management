@@ -25,7 +25,7 @@ You are the IT administrator for a small corporate network. You have just change
    - Repeat this step to modify additional device priorities as required.
 
 4. **Apply changes and exit BIOS:**
-![image](https://github.com/K4iju/System-management/assets/159083256/75566ef2-0759-489e-99f6-7800bd9dcb74)
+![image](https://github.com/K4iju/System-management/assets/159083256/dda70b02-7eb7-4f72-9900-9e07287a7166)
 
    - Select Apply and then select Exit.
    - The computer will automatically boot to Windows according to the new boot sequence.
@@ -37,7 +37,7 @@ You work at a computer repair store. A customer brought in a computer and asked 
 
 
 ## Replicate the problem described in the scenario.
-![image](https://github.com/K4iju/System-management/assets/159083256/93718c3d-3afe-4b96-a494-48f896bbcc8c)
+![image](https://github.com/K4iju/System-management/assets/159083256/ee092ec5-77d9-4b5d-84de-e1971ae94b64)
 
 -  On the computer, select the power button.
 - Select OK to close the prompt indicating that the computer failed to run.
@@ -46,10 +46,11 @@ You work at a computer repair store. A customer brought in a computer and asked 
 
 ## Provide power to the computer.
 
-![image](https://github.com/K4iju/System-management/assets/159083256/4878a605-69df-471e-ae77-eec0d262a7ba)
+![image](https://github.com/K4iju/System-management/assets/159083256/a26e732c-b46d-4b41-a14b-2065578b6742)
 
 
-![image](https://github.com/K4iju/System-management/assets/159083256/e3769bd1-a128-43e7-9b90-cc28fe701f1d)
+
+![image](https://github.com/K4iju/System-management/assets/159083256/535cefa2-6f1c-4648-92ef-18a8e63c419b)
 
 
 - Above the computer, select Back.
@@ -80,7 +81,8 @@ Select OK to close the prompt.
 
 ## Provide power to the heat sink and fan to prevent the computer from overheating.
 
-![image](https://github.com/K4iju/System-management/assets/159083256/b77f5bd6-f382-456d-b467-b04d7231512c)
+![image](https://github.com/K4iju/System-management/assets/159083256/2b4978d6-bb8b-4a3f-a77c-6169317cc3e6)
+
 
 - Above the computer, select Motherboard.
 - Notice that, under Partial Connections for the computer, the heat sink and fan is shown.
